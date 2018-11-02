@@ -14,6 +14,7 @@ I was struggling too, but I am still proud to turn it around without any errors.
 
 ## Architecture
 
-![enter image description here](https://lh3.googleusercontent.com/GYp-mtbg-HdZycpQByv4hjPucsfcEk609HFbTUXuyJhTMnVYHg4IxKTt7VZQ_ZFLnFiM_L7xzmc "GCP 3-Tier Architecture")
+![enter image description here](https://lh3.googleusercontent.com/ZQJ2cWmUl1uWN6y8anLWiPXRXGv6QCSrYPN38r2_oYucbER-I9hw6n4xpUmL0G-kc3Lmoh3bI5w=s10000 "gcp-architecture")
+
 This is the GCP architecture written with that code.
 
